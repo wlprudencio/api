@@ -11,4 +11,5 @@ Liguagem: Java
 ---Segundo Modulo---
 #Parte 2
 .Foi feito a inclusão das validacões http, aonde pude testar cada uma, nos campos (Listar, Atualizar, Excluir é Cadastrar);
-É fiz um novo pacote "Infra" aonde fiz tratamento de erros (404 é 400);
+.É fiz um novo pacote "Infra" aonde fiz tratamento de erros (404 é 400);
+.Interrupmento ao fazer o restante de Cadastro Paciente(Comentando no momento);
