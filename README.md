@@ -1,6 +1,15 @@
 # api
-Parte 1
-Projeto feito a base de pesquisa é acompanhamento com tutor. Criação de uma API usando a ferramenta Spring Boot
+#Projeto Spring boot
+Sobre: Está sendo acompanhado e sendo feito a base de consultas junto ao professor, com intuito de entender as questões do Spring boot, entender essa facilidade que nós dá é aprimorar;
+Liguagem: Java
 
-Parte 2
-Hoje foi feito a inclusão das validacões http, aonde pude testar cada uma, nos campos (Listar, Atualizar, Excluir é Cadastrar)
+
+- Parte 1
+- Implementação da base do projeto, onde de inicio fizemos a inialização de nosso pacote já com as dependencias adquiridas pelos initializr;
+
+- Parte 2
+- Implementação do Crud;
+
+- Parte 3
+- Foi feito a inclusão das validacões http, aonde pude testar cada uma, nos campos (Listar, Atualizar, Excluir é Cadastrar);
+É fiz um novo pacote "Infra" aonde fiz tratamento de erros (404 é 400);
